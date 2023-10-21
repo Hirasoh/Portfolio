@@ -50,8 +50,7 @@ const projectList = [
   },
   {
     title: "Abnormal Heart Sound Detection",
-    description:
-      "Leveraged ML and digital signal processing to create a precise abnormal heart sound detection system, aiding early diagnosis and improving patient care. This technology enhances the accuracy of identifying cardiac anomalies.",
+    description: "Leveraged ML and digital signal processing to create a precise abnormal heart sound detection system, aiding early diagnosis and improving patient care. This technology enhances the accuracy of identifying cardiac anomalies.",
     url: "https://github.com/Hirasoh/abnormal_heart_sound_detection",
   },
 ];
